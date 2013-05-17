@@ -1,1 +1,1 @@
-echo "TODO"
+echo "TODO fill with backup of old .dotfiles and symlinking"
