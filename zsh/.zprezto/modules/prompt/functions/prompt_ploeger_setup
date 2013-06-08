@@ -64,7 +64,8 @@ function prompt_ploeger_setup {
   zstyle ':prezto:module:git:info:stashed'                     format ' %B%F{cyan}✭%f%b'
   zstyle ':prezto:module:git:info:unmerged'                    format ' %B%F{yellow}═%f%b'
   zstyle ':prezto:module:git:info:untracked'                   format ' %B%F{white}◼%f%b'
-  zstyle ':prezto:module:git:info:keys'                        format 'rprompt' "%A%B%S%a%d%m%r%U%u $(coalesce "%b" "%p" "%c")%s"
+  zstyle ':prezto:module:git:info:keys'                        format 'rprompt' "%A%B%S%a%d%m%r%U%u$(coalesce "%b" "%p" "%c")%s"
+  zstyle ':prezto:module:git:info'                             verbose 'yes'
   
   zstyle ':prezto:module:ruby:info:version'                    format '%v'
 
