@@ -1,3 +1,4 @@
+#encoding: utf-8
 require 'irb/completion'
 require 'wirble'
 Wirble::Colorize.colors = {

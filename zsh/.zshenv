@@ -25,7 +25,7 @@ export PAGER='less'
 # Aliases
 #
 
-alias -s rb=mate
+# alias -s rb=mate
 alias tree='tree -AN'
 
 #
