@@ -3,3 +3,4 @@
   name         = Martin Plöger
 [core]
   excludesfile = /Users/martin/.gitignore_global
+  editor       = $EDITOR -w

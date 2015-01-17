@@ -14,8 +14,7 @@ fi
 # Editors
 #
 
-export EDITOR='/usr/local/bin/mate -w'
-export VISUAL='/usr/local/bin/mate -w'
+export EDITOR='subl'
 export PAGER='less'
 
 #
