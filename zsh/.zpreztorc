@@ -35,10 +35,16 @@ zstyle ':prezto:load' pmodule \
   'archive' \
   'git' \
   'osx' \
+  'homebrew' \
+  'tmux' \
+  'command-not-found' \
+  'archive' \
   'ruby' \
   'rails' \
   'node' \
   'syntax-highlighting' \
+  'history-substring-search' \
+  'fasd' \
   'prompt'
 
 #
